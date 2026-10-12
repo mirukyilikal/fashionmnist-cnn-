@@ -142,7 +142,6 @@ git clone https://github.com/mirukyilikal/fashionmnist-cnn
 cd fashionmnist-cnn
 ```
 
-Replace `https://github.com/mirukyilikal/fashionmnist-cnn` with your repository's actual URL.
 
 ### 2. Install dependencies
 
